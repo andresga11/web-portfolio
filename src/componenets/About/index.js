@@ -31,7 +31,7 @@ const About = () => {
                         />
                     </h1>
                     <p>
-                    I am an ambitious front-end developer seeking a position at a well-established IT company where I can engage with cutting-edge technologies and contribute to challenging and varied projects.
+                    I am an ambitious software developer seeking a position at a well-established IT company where I can engage with cutting-edge technologies and contribute to challenging and varied projects.
                     </p>
                     <p>
                     I am confidently reserved, inherently curious, and constantly dedicated to honing my skills through tackling one design challenge after another.
